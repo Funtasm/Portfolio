@@ -11,3 +11,5 @@ displayed as a debugging measure, and housing the logic to control all three. Th
 tasked with ensuring the device's analog microphone signal be filtered into a readable digital signal for the BASYS3 board.
 
 SocketPython - The default socket example in python with added comments and the ability to request time from the server side by the client side.
+
+DataStructuresProject1 - An abstract syntax tree that parses and evaluates boolean expressions. 
